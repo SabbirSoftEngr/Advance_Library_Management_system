@@ -1,0 +1,29 @@
+[
+    {
+        "title": "sabbir hossain",
+        "author": "sabbir",
+        "year": 2023,
+        "price": 123,
+        "quantity": 1,
+        "bookAddedAt": "2024-12-13 20:55:52",
+        "bookLastUpdatedAt": "2024-12-13 20:55:52"
+    },
+    {
+        "title": "",
+        "author": "",
+        "year": 2023,
+        "price": 123,
+        "quantity": 1,
+        "bookAddedAt": "2024-12-13 20:59:15",
+        "bookLastUpdatedAt": "2024-12-13 20:59:15"
+    },
+    {
+        "title": "sabbir",
+        "author": "sabbir",
+        "year": 2013,
+        "price": 123,
+        "quantity": 1,
+        "bookAddedAt": "2024-12-13 21:24:04",
+        "bookLastUpdatedAt": "2024-12-13 21:24:04"
+    }
+]
